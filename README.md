@@ -53,6 +53,4 @@ Benvinguts al meu perfil de GitHub! Soc un tècnic informàtic proactiu, amb exp
 
 ---
 
-### ⚙️ GitHub Stats
-
-*(Opcional: Pots afegir aquestes plantilles clàssiques perquè es vegi el teu moviment al repositori)*
+### ⚙️ [Enllaç Presentació.md](https://github.com/PerezAran/presentacio/blob/main/README.md)
